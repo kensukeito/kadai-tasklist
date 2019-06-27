@@ -14,7 +14,12 @@
             </c:forEach>
         </ul>
 
+        <!--
         <p><a href="${pageContext.request.contextPath}">新規タスクの投稿</a></p>
+        -->
+
+   <p><a href="/tasklist/new">新規タスクの投稿</a></p>
+
 
     </c:param>
 </c:import>
